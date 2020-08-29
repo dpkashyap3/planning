@@ -1,0 +1,75 @@
+[{
+    "id":1,
+    "name":"Team 1",
+    "type":"Teams",
+    "users":[
+        {
+            "id":1,
+            "name":"Deepak",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":2,
+            "name":"Deep",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":3,
+            "name":"Kriyansh",
+            "desc":"sajdfjaskfjksdfjsd"
+        }
+
+    ]
+},
+{
+    "id":2,
+    "name":"Team 2",
+    "type":"Teams",
+    "users":[
+        {
+            "id":1,
+            "name":"Pawan",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":2,
+            "name":"Arzoo",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":3,
+            "name":"Mitansh",
+            "desc":"sajdfjaskfjksdfjsd"
+        }
+
+    ]
+},
+{
+    "id":3,
+    "name":"Team 3",
+    "type":"Teams",
+    "users":[
+        {
+            "id":1,
+            "name":"Chaman Lal",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":2,
+            "name":"Kamlesh",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":3,
+            "name":"Dinki",
+            "desc":"sajdfjaskfjksdfjsd"
+        },
+        {
+            "id":4,
+            "name":"Ankit",
+            "desc":"sajdfjaskfjksdfjsd"
+        }
+
+    ]
+}
+]
