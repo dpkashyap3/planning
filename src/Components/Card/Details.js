@@ -11,16 +11,14 @@ const [desc, setdesc] = useState("")
         <Container>
           <Row>
             <Card className="mb-2 bg-secondary text-white">
-                
                   <Card.Body>
                   <Form.Label className="ml-2 mr-2">Name</Form.Label> 
-                  <Form.Control type="text" id="name" size="sm" onChange={(e)=>setname(e.target.value)} placeholder="Enter Here"/>
+                  <Form.Control type="text" id="username" size="sm" onChange={(e)=>setname(e.target.value)} placeholder="Enter Here"/>
                   <Form.Label className="ml-2 mr-2">Description</Form.Label> 
                   <Form.Control as="textarea" id="desc" size="sm" onChange={(e)=>setdesc(e.target.value)} placeholder="Enter Here"/>
                   <hr/>
                   <Button variant="warning" size="sm" onClick={()=>createUser(id,name,desc)}>Create User +</Button>
                   </Card.Body>
-                
             </Card>
           </Row>
         </Container>
